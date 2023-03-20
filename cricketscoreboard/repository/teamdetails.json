@@ -1,0 +1,197 @@
+{
+  "1": {
+    "teamName": "India",
+    "teamId": 1,
+    "players": [
+      {
+        "playerId": 1,
+        "name": "M S dhoni",
+        "totalruns": 56
+      },
+      {
+        "playerId": 2,
+        "name": "Rohit sharma",
+        "totalruns": 45
+      },
+      {
+        "playerId": 3,
+        "name": "virat kohli",
+        "totalruns": 89
+      },
+      {
+        "playerId": 4,
+        "name": "suresh raina",
+        "totalruns": 103
+      },
+      {
+        "playerId": 5,
+        "name": "Sourav ganguly",
+        "totalruns": 23
+      },
+      {
+        "playerId": 6,
+        "name": "R Jadeja",
+        "totalruns": 34
+      },
+      {
+        "playerId": 7,
+        "name": "Asush nehra",
+        "totalruns": 0
+      },
+      {
+        "playerId": 8,
+        "name": "Ravichandran Ashwin",
+        "totalruns": 0
+      },
+      {
+        "playerId": 9,
+        "name": "Bumrah",
+        "totalruns": 0
+      },
+      {
+        "playerId": 10,
+        "name": "Mohammad Shami",
+        "totalruns": 0
+      },
+      {
+        "playerId": 11,
+        "name": "Chahal",
+        "totalruns": 0
+      }
+    ],
+    "totalMatches": 1,
+    "wins": 1,
+    "loses": 0,
+    "draws": 0
+  },
+  "2": {
+    "teamName": "Australia",
+    "teamId": 2,
+    "players": [
+      {
+        "playerId": 12,
+        "name": "Ricky ponting",
+        "totalruns": 2
+      },
+      {
+        "playerId": 13,
+        "name": "Shane warne",
+        "totalruns": 34
+      },
+      {
+        "playerId": 14,
+        "name": "Adam gilchrist",
+        "totalruns": 42
+      },
+      {
+        "playerId": 15,
+        "name": "Steve Waugh",
+        "totalruns": 23
+      },
+      {
+        "playerId": 16,
+        "name": "Michael clarke",
+        "totalruns": 13
+      },
+      {
+        "playerId": 17,
+        "name": "Shane watson",
+        "totalruns": 41
+      },
+      {
+        "playerId": 18,
+        "name": "Don bradman",
+        "totalruns": 2
+      },
+      {
+        "playerId": 19,
+        "name": "Michael hussey",
+        "totalruns": 23
+      },
+      {
+        "playerId": 20,
+        "name": "David warner",
+        "totalruns": 0
+      },
+      {
+        "playerId": 21,
+        "name": "Glenn Maxwell",
+        "totalruns": 0
+      },
+      {
+        "playerId": 22,
+        "name": "Steve smith",
+        "totalruns": 0
+      }
+    ],
+    "totalMatches": 1,
+    "wins": 0,
+    "loses": 1,
+    "draws": 0
+  },
+  "3": {
+    "teamName": "South Africa",
+    "teamId": 3,
+    "players": [
+      {
+        "playerId": 23,
+        "name": "Kallis",
+        "totalruns": 0
+      },
+      {
+        "playerId": 24,
+        "name": "AB de villiers",
+        "totalruns": 0
+      },
+      {
+        "playerId": 25,
+        "name": "Dale steyn",
+        "totalruns": 0
+      },
+      {
+        "playerId": 26,
+        "name": "Hashim Amla",
+        "totalruns": 0
+      },
+      {
+        "playerId": 27,
+        "name": "Fah du plessis",
+        "totalruns": 0
+      },
+      {
+        "playerId": 28,
+        "name": "Jonty Rhodes",
+        "totalruns": 0
+      },
+      {
+        "playerId": 29,
+        "name": "ALbie Morkel",
+        "totalruns": 0
+      },
+      {
+        "playerId": 30,
+        "name": "Aiden markram",
+        "totalruns": 0
+      },
+      {
+        "playerId": 31,
+        "name": "Temba bavuma",
+        "totalruns": 0
+      },
+      {
+        "playerId": 32,
+        "name": "Quinton de kock",
+        "totalruns": 0
+      },
+      {
+        "playerId": 33,
+        "name": "JP duminy",
+        "totalruns": 0
+      }
+    ],
+    "totalMatches": 0,
+    "wins": 0,
+    "loses": 0,
+    "draws": 0
+  }
+}

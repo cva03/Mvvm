@@ -1,0 +1,173 @@
+[
+  {
+    "accountNumber": 100000001,
+    "firstName": "Siva",
+    "lastName": "subramaniyan",
+    "password": "siva@zoho",
+    "age": 23,
+    "address": "30,vaigai colony, Annanagar",
+    "nationality": "Indian",
+    "dob": "29-08-2000",
+    "aadharNumber": 12345678987,
+    "balance": 11000,
+    "transactionHistory": [
+      {
+        "type": "Money transferr to account no :100000002",
+        "amount": 500,
+        "date": "22-02-2023",
+        "time": "12:39 PM",
+        "balance": 9500
+      },
+      {
+        "type": "Money request paid from :100000002",
+        "amount": 500,
+        "date": "22-02-2023",
+        "time": "12:43 PM",
+        "balance": 10000
+      },
+      {
+        "type": "Money request paid from :100000002",
+        "amount": 500,
+        "date": "22-02-2023",
+        "time": "12:47 PM",
+        "balance": 10500
+      },
+      {
+        "type": "Money request paid from :100000002",
+        "amount": 500,
+        "date": "22-02-2023",
+        "time": "12:54 PM",
+        "balance": 11000
+      }
+    ],
+    "moneyRequest": [],
+    "moneyRequestsent": [
+      {
+        "requestId": 1,
+        "amount": 500,
+        "fromAccNo": 100000002,
+        "date": "22-02-2023",
+        "time": "12:40 PM",
+        "description": "please send 500",
+        "paid": false
+      }
+    ]
+  },
+  {
+    "accountNumber": 100000003,
+    "firstName": "ganesh",
+    "lastName": "raj",
+    "password": "ganesh@raj",
+    "age": 23,
+    "address": "29,vaigai colony, anna nagar, madurai",
+    "nationality": "indian",
+    "dob": "2000-08-29",
+    "aadharNumber": 23456789,
+    "balance": 10000,
+    "transactionHistory": [
+      {
+        "type": "Money transferr to account no :100000002",
+        "amount": 500,
+        "date": "07-03-2023",
+        "time": "09:52 AM",
+        "balance": 9500
+      },
+      {
+        "type": "Money request paid from :100000002",
+        "amount": 500,
+        "date": "07-03-2023",
+        "time": "09:55 AM",
+        "balance": 10000
+      }
+    ],
+    "moneyRequest": [],
+    "moneyRequestsent": [
+      {
+        "requestId": 3,
+        "amount": 500,
+        "fromAccNo": 100000002,
+        "date": "07-03-2023",
+        "time": "09:53 AM",
+        "description": "i have send the money mistakenly",
+        "paid": false
+      }
+    ]
+  },
+  {
+    "accountNumber": 100000002,
+    "firstName": "Praveen",
+    "lastName": "kumar",
+    "password": "pk@zoho",
+    "age": 23,
+    "address": "31,vaigai colony, Annanagar",
+    "nationality": "Indian",
+    "dob": "06-10-2000",
+    "aadharNumber": 12345678988,
+    "balance": 9000,
+    "transactionHistory": [
+      {
+        "type": "Money received from account no :100000001",
+        "amount": 500,
+        "date": "22-02-2023",
+        "time": "12:39 PM",
+        "balance": 10500
+      },
+      {
+        "type": "Money request paid to :100000001",
+        "amount": 500,
+        "date": "22-02-2023",
+        "time": "12:43 PM",
+        "balance": 10000
+      },
+      {
+        "type": "Money request paid to :100000001",
+        "amount": 500,
+        "date": "22-02-2023",
+        "time": "12:47 PM",
+        "balance": 9500
+      },
+      {
+        "type": "Money request paid to :100000001",
+        "amount": 500,
+        "date": "22-02-2023",
+        "time": "12:54 PM",
+        "balance": 9000
+      },
+      {
+        "type": "Money received from account no :100000003",
+        "amount": 500,
+        "date": "07-03-2023",
+        "time": "09:52 AM",
+        "balance": 9500
+      },
+      {
+        "type": "Money request paid to :100000003",
+        "amount": 500,
+        "date": "07-03-2023",
+        "time": "09:55 AM",
+        "balance": 9000
+      }
+    ],
+    "moneyRequest": [
+      {
+        "requestId": 1,
+        "amount": 500,
+        "fromAccNo": 100000001,
+        "date": "22-02-2023",
+        "time": "12:40 PM",
+        "description": "please send 500",
+        "paid": false
+      },
+      {
+        "requestId": 3,
+        "amount": 500,
+        "fromAccNo": 100000003,
+        "date": "07-03-2023",
+        "time": "09:53 AM",
+        "description": "i have send the money mistakenly",
+        "paid": true
+      }
+    ],
+    "moneyRequestsent": []
+  }
+]
